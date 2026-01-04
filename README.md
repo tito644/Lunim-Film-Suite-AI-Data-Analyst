@@ -124,8 +124,48 @@ An AI model that evaluates:
 - **Jupyter Notebook**
 
 ---
-
 ## ▶️ How to Run the Project
 
+### 1️⃣ Clone the repository
+
+git clone https://github.com/tito644/Lunim-Film-Suite-AI-Data-Analyst.git
+
+### 2️⃣ Install dependencies:
 pip install -r requirements.txt
-jupyter notebook
+
+### 3️⃣ Run the Jupyter Notebook:
+jupyter notebook notebooks/Lunim-Film-Suite-AI-Data-Analyst.ipynb
+
+---
+
+## 👤 The Team
+
+**Tarek Mohamed El-Naggar**
+
+Data Scientist | Data Analyst  
+
+- LinkedIn: https://www.linkedin.com/in/tarek-mohamed-el-naggar/
+- GitHub: https://github.com/tito644
+
+---
+
+## 📁 Repository Structure
+```text
+Lunim-Film-Suite-AI-Data-Analyst/
+│
+├── notebooks/
+│ └── Lunim-Film-Suite-AI-Data-Analyst_Notebook.ipynb
+│
+├── docs/
+│ └── The_Final_Documentation.pdf
+│
+├── data/
+│ ├── raw/
+│ └── processed/
+│
+├── reports/
+│ └── figures/
+│
+├── requirements.txt
+└── README.md
+

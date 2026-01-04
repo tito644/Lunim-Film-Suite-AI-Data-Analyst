@@ -138,7 +138,7 @@ jupyter notebook notebooks/Lunim-Film-Suite-AI-Data-Analyst.ipynb
 
 ---
 
-## 👤 The Team
+## 👤 The Author
 
 **Tarek Mohamed El-Naggar**
 

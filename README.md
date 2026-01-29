@@ -1,4 +1,4 @@
-# 🎬 Lunim Film Suite — Data Analytics & AI Monetisation Analysis
+# 🎬 Lunim Film Suite – Data Analytics & AI Monetization Strategy
 
 ## 📌 Project Overview
 This project presents a comprehensive **data analytics and AI-driven business analysis** for **Lunim Film Suite**, a next-generation **Web3-native film financing platform**.  
